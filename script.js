@@ -44,11 +44,25 @@
 // }
 
 
-let age = 80
-if(age < 20) {
-    console.log("อายุน้อยกว่า 20")
-} else if (age > 20 && age < 50) {
-    console.log("อายุมากกว่า 20")
-} else {
-    console.log("คุณกรอกข้อมูลผิดพลาด")
+// let age = 80
+// if(age < 20) {
+//     console.log("อายุน้อยกว่า 20")
+// } else if (age > 20 && age < 50) {
+//     console.log("อายุมากกว่า 20")
+// } else {
+//     console.log("คุณกรอกข้อมูลผิดพลาด")
+// }
+// const date = new Date
+// console.log(date.getHours() * "i" + date.getMinutes() * "i" + date.getSeconds())
+
+// console.log(Math.sin(90))
+// console.log(Math.random())
+
+console.log(Math.floor(Math.random() * 10))
+
+let i = 1
+while (i < 4) {
+    console.log(Math.floor(Math.random()*2))
 }
+
+for (let < 4)
